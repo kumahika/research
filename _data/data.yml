@@ -23,14 +23,14 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    youtube: 熊本 光 channel (準備中)
+    youtube: 熊本 光 channel
 
     languages:
       - idiom: Japanese
         level: Native
 
       - idiom: English
-        level: Intermediate
+        level: Intermediate　TOEIC score 775
 
     interests:
       - item: Robot
@@ -52,32 +52,28 @@ career-profile:
       研究活動については，奈良高専ではレーザー計測システム，移動ロボットによる環境測定システムの研究を行なっていました．現在の奈良先端大では，水中ロボットのプロジェクト・研究，医療関連の共同研究，WRC(World Robot Challenge)のコンビニチャレンジ等に取り組んでいます．
 
 education:
-    - degree: 修士(見込み)
-      university: 奈良先端科学技術大学院大学
+    - degree: 修士
+      university: 奈良先端科学技術大学院大学 ロボティクス研究室
       time: 2019 - present
       details: |
-        現在は奈良先端科学技術大学院大学の修士1年生です．奈良先端大では主に情報科学領域を学びながら，ロボットや動くものづくりに関連する研究を行なっています．
-
-          - 奈良先端科学技術大学院大学 先端科学技術研究科 情報理工学プログラム
+        # 現在は奈良先端科学技術大学院大学の修士1年生です．奈良先端大では主に情報科学領域を学びながら，ロボットや動くものづくりに関連する研究を行なっています．
+        # 　- 奈良先端科学技術大学院大学 先端科学技術研究科 情報理工学プログラム
 
     - degree: 学士
       university: 奈良工業高等専門学校　専攻科
       time: 2017 - 2019
       details: |
-        奈良高専専攻科では，より専門性の高い科目や，グループでのシステムの設計，制作などを主に学びます．さらに，研究もより専門性とクオリティの高さが要求されます．
-        私の研究室は，ロボットの制御やシステムインテグレーションなどに取り組んでいました．
-
-          - 奈良工業高等専門学校 システム創成工学専攻 機械制御システムコース
+        # 奈良高専専攻科では，より専門性の高い科目や，グループでのシステムの設計，制作などを主に学びます．さらに，研究もより専門性とクオリティの高さが要求されます．
+        # 私の研究室は，ロボットの制御やシステムインテグレーションなどに取り組んでいました．
+        # 　- 奈良工業高等専門学校 システム創成工学専攻 機械制御システムコース
 
     - degree: 準学士
       university: 奈良工業高等専門学校　本科
       time: 2012 - 2017
       details: |
-        奈良高専では，高校の一般科目や教養科目に加えて，専門科目として機械・電気電子・情報の3つの分野を幅広く学びました．
-        高専は，5年生一貫教育を行なっており，1~3年生は一般科目，4~5年は専門科目を主に学びます．また，5年生は卒業研究を行い，4年制大学と比較して早い段階で研究活動を行います．
-
-          - 奈良工業高等専門学校 電子制御工学科
-
+#         奈良高専では，高校の一般科目や教養科目に加えて，専門科目として機械・電気電子・情報の3つの分野を幅広く学びました．
+#         高専は，5年生一貫教育を行なっており，1~3年生は一般科目，4~5年は専門科目を主に学びます．また，5年生は卒業研究を行い，4年制大学と比較して早い段階で研究活動を行います．
+# 　　　　　　- 奈良工業高等専門学校 電子制御工学科
 
 #experiences:
     - role:
@@ -86,9 +82,9 @@ education:
       details: |
 
 awards:
-    title: Awards & Certifications
+    title: Honors & Awards
     intro: >
-      今まで頂いた賞や資格，奨学生等について覚え書きしています．．
+      今まで頂いた賞や資格，奨学生等について覚え書きしています．
     assignments:
       - title: アイコム電子通信工学振興財団　第15期奨学生
         link: "http://www.icom.or.jp/katudou/2018/04/3015.html"
@@ -105,12 +101,6 @@ awards:
       - title: ワールド・ロボット・サミット(WRS)トライアル競技会 コンビニ部門　陳列・廃棄タスク1位
         link: "http://www.naist.jp/news/2019/12/006549.html"
         tagline: "「NAIST-RITS-Panasonic」チームでの受賞です．ちなみに自分はMobile Baseの担当でした．"
-
-      - title: TOEIC IP 775
-        link: ""
-        tagline: "公開テストを受験予定です．"
-
-
 
 projects:
     title: Projects
@@ -129,7 +119,7 @@ projects:
 publications:
     title: Publications
     intro: |
-      国内および国際会議，シンポジウム等の発表リストです. タイトル，著者，会議名のみの簡略表現ですが悪しからず．．．
+      国内および国際会議，ジャーナル，シンポジウム等の発表リストです. タイトル，著者，会議名のみの簡略表現ですが悪しからず．．．
 
     papers:
       - title: Mobile Robot for Environmental Measurement in Greenhouse
