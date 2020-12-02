@@ -103,8 +103,8 @@ awards:
         tagline: "「NAIST-RITS-Panasonic」チームでの受賞です．ちなみに自分はMobile Baseの担当です．"
 
       - title: アイコム電子通信工学振興財団　第17期奨学生
-        link: "http://www.icom.or.jp/katudou/2018/04/3015.html"
-        tagline: "奨学生に二度選考頂き，経済的なご支援頂いておりますこと，大変感謝申し上げます．"
+        link: "http://www.icom.or.jp/katudou"
+        tagline: "二度に渡り奨学生に選考頂き，経済的なご支援頂いておりますこと，大変感謝申し上げます．"
 
 
 projects:
@@ -129,7 +129,7 @@ publications:
     papers:
       - title: Semi-automatic Collection of Marine Debris by Collaborating UAV and UUV
         authors: Naoki Shirakura, Takuya Kiyokawa, Hikaru Kumamoto, Jun Takamatsu, Tsukasa Ogasawara
-        conference: IEEE Robotic Computing IRC 2020.
+        conference: Proceedings of the 2020 IEEE International Conference on Robotic Computing (IRC 2020), pp. 121-126, 2020.
 
       - title: 吸引機構を搭載した水中ロボットによる海洋ゴミ回収システム
         authors: 熊本 光, 白倉 尚貴, 高松 淳, 小笠原 司
