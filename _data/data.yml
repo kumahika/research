@@ -100,7 +100,12 @@ awards:
 
       - title: ワールド・ロボット・サミット(WRS)トライアル競技会 コンビニ部門　陳列・廃棄タスク1位
         link: "http://www.naist.jp/news/2019/12/006549.html"
-        tagline: "「NAIST-RITS-Panasonic」チームでの受賞です．ちなみに自分はMobile Baseの担当でした．"
+        tagline: "「NAIST-RITS-Panasonic」チームでの受賞です．ちなみに自分はMobile Baseの担当です．"
+
+      - title: アイコム電子通信工学振興財団　第17期奨学生
+        link: "http://www.icom.or.jp/katudou"
+        tagline: "二度に渡り奨学生に選考頂き，経済的なご支援頂いておりますこと，大変感謝申し上げます．"
+
 
 projects:
     title: Projects
@@ -122,12 +127,24 @@ publications:
       国内および国際会議，ジャーナル，シンポジウム等の発表リストです. タイトル，著者，会議名のみの簡略表現ですが悪しからず．．．
 
     papers:
+      - title: Semi-automatic Collection of Marine Debris by Collaborating UAV and UUV
+        authors: Naoki Shirakura, Takuya Kiyokawa, Hikaru Kumamoto, Jun Takamatsu, Tsukasa Ogasawara
+        conference: Proceedings of the 2020 IEEE International Conference on Robotic Computing (IRC 2020), pp. 121-126, 2020.
+
+      - title: 吸引機構を搭載した水中ロボットによる海洋ゴミ回収システム
+        authors: 熊本 光, 白倉 尚貴, 高松 淳, 小笠原 司
+        conference: ロボティクス・メカトロニクス講演会2020（ROBOMECH2020）, 1A1-B11, 2020.
+
+      - title: 吸引機構を搭載した水中ロボットによる海洋ゴミ回収システム
+        authors: 熊本 光, 白倉 尚貴, 高松 淳, 小笠原 司
+        conference: ロボティクス・メカトロニクス講演会2020（ROBOMECH2020）, 1A1-B11, 2020.
+
       - title: Mobile Robot for Environmental Measurement in Greenhouse
         authors: Kenichi IIDA, Hikaru KUMAMOTO, Shigeto NAKAMURA, Etsuko UEDA
         conference: Journal of the Institute of Industrial Applications Engineers, vol. 8, no. 1, pp. 33-38, 2020.
 
       - title: 水中ドローンによるティーチングプレイバックを用いた浮遊物の半自動回収システム
-        authors: 白倉　尚貴，熊本 光,　清川　拓哉，清水　拓海，高松　淳，小笠原　司
+        authors: 白倉 尚貴，熊本 光,　清川 拓哉，清水 拓海，高松 淳，小笠原 司
         conference: 第20回システムインテグレーション部門講演会（SI2019）
 
       - title: Environmental measurement in Greenhouse by mobile robot using ROS
@@ -147,7 +164,7 @@ publications:
         conference: 地(知)の拠点大学による地方創生推進事業(COC+)シンポジウム2018
 
       - title: ピコ秒パルスレーザー干渉計を用いた厚み測定システム
-        authors: 熊本 光, 坂井 雄介, 押田 至啓
+        authors: 熊本 光, 坂井 雄亮, 押田 至啓
         conference: 第24回「学生会員卒業研究発表講演会」
 
 skills:
@@ -169,6 +186,9 @@ skills:
       - name: Python
         level: 55%
 
+      - name: Docekr
+        level: 40%
+
       - name: Markdown
         level: 40%
 
@@ -176,9 +196,6 @@ skills:
         level: 40%
 
       - name: HTML5 & CSS
-        level: 20%
-
-      - name: Docekr
         level: 20%
 
 
